@@ -1,0 +1,34 @@
+/******************
+
+default stylel rule set for css
+
+selector {
+  property: value;
+}
+
+******************/
+
+body {
+  background-color:blue;
+  margin-top:200px;
+}
+h1 {
+  color:white
+  font-size: 100px;
+  text-align: center;
+  font-family:fantasy;
+}
+h2{
+  color: white;
+  text-align:center;
+}
+p{
+  color: white;
+  text-align:center;
+}
+a{
+  color:tomato;
+}
+a:hover{
+  color:dodgerblue;
+}
