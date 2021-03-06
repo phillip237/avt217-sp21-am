@@ -1,0 +1,17 @@
+/******************
+
+default stylel rule set for css
+
+selector {
+  property: value;
+}
+
+******************/
+
+body {
+  background-color: blue;
+  margin-top:200px;
+}
+h1 {
+  color:black;
+  font-size: 100px;
