@@ -1,0 +1,167 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 20px solid grey;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.aSquare {
+  width: 160px;
+  height: 100px;
+  background-color: green;
+  border: 5px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
+
+.bSquare {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
+
+.cSquare {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border: 10px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
+
+.dSquare {
+  width: 160px;
+  height: 100px;
+  background-color: white;
+  border: 10px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
+
+.aCircle {
+  width: 160px;
+  height: 100px;
+  background-color: green;
+  border: 10px solid black;
+  margin: -15px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%
+}
+
+.bCircle {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+  border: 10px solid black;
+  margin: -50px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
+
+.cCircle {
+  width: 160px;
+  height: 100px;
+  background-color: yellow;
+  border: 10px solid black;
+  margin: -15px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%
+}
+
+.aRectangle {
+  width: 700px;
+  height: 700px;
+  background-color: blue;
+  border: 15px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.bRectangle {
+  width: 200px;
+  height: 100px;
+  background-color: lime;
+  border: 20px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.cRectangle {
+  width: 400px;
+  height: 700px;
+  background-color: magenta;
+  border: 20px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.dRectangle {
+  width: 400px;
+  height: 100px;
+  background-color: tomato;
+  border: 20px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.aShape {
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border: 20px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.bShape {
+  width: 500px;
+  height: 500px;
+  background-color: grey;
+  border: 10px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.cShape {
+  width: 80px;
+  height: 80px;
+  background-color: blue;
+  border: 20px solid black;
+  margin: -15px;
+  opacity: .75;
+  float: left;
+}
+
+.dShape {
+  width: 500px;
+  height: 500px;
+  background-color: tan;
+  border: 10px solid black;
+  margin: -50px;
+  opacity: .75;
+  float: left;
+  border-radius: 50%
+}
