@@ -1,13 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 16px;
+}
+
+body{
+  background-color: dodgerblue;
+  text-align: left;
+  font-family: 'lato', sans-serif;
+}
+
+header{
+  width: 75vw;
+  margin: 25px auto;
+  background-color: blue;
+}
+
+main{
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+
+.col{
+  width: 50%;
+  float: left;
+}
 
 h1{
+  font-size: 4rem;
   color: black;
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 h2{
+  font-size: 2rem;
+  text-align: left;
   color: black;
-  font-family: fantasy;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
 }
 
 a{
@@ -15,10 +50,43 @@ a{
   font-family: fantasy;
 }
 
-body{
-  background-color: dodgerblue;
+a:hover, a:active{
+  color: tomato;
 }
 
-a:hover{
-  color: tomato;
+li{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 10px;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  max-width: 100%;
+}
+
+@media screen and (max-width: 555px) {
+  .col{
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  header{
+    width: 50vw;
+  }
+  main{
+    width: 50vw;
+  }
+  h1{
+    font-size: 1rem;
+  }
 }
