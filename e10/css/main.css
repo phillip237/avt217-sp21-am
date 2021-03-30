@@ -1,0 +1,161 @@
+.black{
+  background-color: black;
+  width: 100px;
+  height: 100px;
+float: left;
+}
+
+.red{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+float: left;
+}
+
+.board{
+  width: 800px;
+  display: flow-root;
+}
+
+.div{
+  display: block;
+}
+.header{
+  background-color: tomato;
+  height: 150px;
+  width: 800px;
+  float: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.main{
+  display: flow-root;
+  float: center;
+  margin: 8px;
+}
+
+.belowheader{
+  background-color: blue;
+  height: 30px;
+  width: 800px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.center{
+display: flow-root;
+padding: 10px;
+margin: 10px;
+text-align: center;
+}
+
+.onecolumn{
+  background-color: pink;
+  height: 400px;
+  width: 15%;
+  float: left;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.twocolumn{
+  background-color: orange;
+  height: 400px;
+  width: 15%;
+  float: left;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.threecolumn{
+  background-color: black;
+  height: 400px;
+  width: 15%;
+  float: left;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.footer{
+  background-color: blue;
+  height: 60px;
+  width: 800px;
+  float: left auto;
+  padding: 10px;
+  margin: 10px;
+}
+
+.headertwo{
+  background-color: tomato;
+  height: 150px;
+  width: 800px;
+  float: center;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.first{
+  display: flow-root;
+}
+
+.oneblock{
+  background-color: purple;
+  height: 400px;
+  width: 40%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.side{
+  background-color: black;
+  height: 230px;
+  width: 25%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.onelittle{
+  background-color: blue;
+  height: 40px;
+  width: 40%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.second{
+  display: flow-root;
+}
+
+.twoblock{
+  background-color: purple;
+  height: 400px;
+  width: 40%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.twoside{
+  background-color: black;
+  height: 230px;
+  width: 25%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.twolittle{
+  background-color: blue;
+  height: 40px;
+  width: 40%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
