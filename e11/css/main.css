@@ -62,3 +62,65 @@ body{
   float: left;
   border-radius: 50%;
 }
+
+.leftarm{
+  background-color: brown;
+  height: 25px;
+  width: 250px;
+  float: left;
+  margin-top: 500px;
+  margin-left: -52px;
+}
+
+.rightarm{
+  background-color: brown;
+  height: 25px;
+  width: 250px;
+  float: left;
+  margin-left: -897px;
+  margin-top: 500px;
+}
+
+.topbutton{
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  margin-left: -473px;
+  margin-top: 400px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%;
+}
+
+.middlebutton{
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  margin-left: -473px;
+  margin-top: 500px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%;
+}
+
+.bottombutton{
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  margin-left: -473px;
+  margin-top: 600px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%;
+}
+
+.nose{
+  background-color: orange;
+  width: 30px;
+  height: 80px;
+  margin-left: -265px;
+  margin-top: 180px;
+  opacity: 1;
+  float: left;
+  border-radius: 50%;
+}
